@@ -85,10 +85,4 @@ If you want, I can:
 
 ---
 
-## Profile snake animation (auto-generated)
-I added a GitHub Action below that will generate a snake-style SVG (like the one you liked). The action writes `dist/snake.svg` into an `output` branch so you can include it in your README.
-
-**Embed the generated snake** (after the workflow runs) with:
-
 ```md
-<img src="https://raw.githubusercontent.com/masked-god/masked-god/output/snake.svg" alt="Snake animation" />

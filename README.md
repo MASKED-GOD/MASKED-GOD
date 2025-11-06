@@ -83,6 +83,4 @@ If you want, I can:
 - Produce the full AutoML single-file rewrite (Algorithms → Advanced → Dataset → Test → `__init__`) like we planned.
 - Recreate the encryption pipeline with a reproducible notebook and optimized file-size/reconstruction fixes.
 
----
 
-```md
